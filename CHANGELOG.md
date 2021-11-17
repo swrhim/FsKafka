@@ -15,7 +15,7 @@ The `Unreleased` section name is replaced by the expected version of next releas
 ### Added
 ### Changed
  
-- Target `Confluent.Kafka [1.8.1]`, `librdkafka.redist [1.8.0]` [#91](https://github.com/jet/FsKafka/pull/91)
+- Target [`Confluent.Kafka [1.8.2]`](https://github.com/confluentinc/confluent-kafka-dotnet/blob/master/CHANGELOG.md#182), [`librdkafka.redist [1.8.2]`](https://github.com/edenhill/librdkafka/blob/master/CHANGELOG.md#librdkafka-v182) [#91](https://github.com/jet/FsKafka/pull/91)
 
 ### Removed
 ### Fixed
